@@ -36,7 +36,7 @@ cd build
 python3 gui.py
 ```
 
-- Load an image/video for object detection.
+- Load an image for object detection.
 - View detected objects with bounding boxes.
 
 
